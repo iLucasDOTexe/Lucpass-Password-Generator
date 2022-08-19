@@ -2,6 +2,6 @@
 Just my personal password generator written in python.
 # How to use
 Type in the following code:
-    test
-    test123
+'''shell test
+'''shell test123
 And you win.
