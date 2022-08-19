@@ -5,4 +5,10 @@ Type in the following code:
 `shell test
     test123
     `
+`   test
+    test123
+`
+```   test
+    test123
+```
 And you win.
